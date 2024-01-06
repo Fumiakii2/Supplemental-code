@@ -1,0 +1,11 @@
+minClusters	2	maxClusters	4
+0	1	1	1	1	0	0	1	1	
+0	1	2	1	2	0	0	1	2	
+0	1	2	1	2	3	0	1	2	
+Metadata
+The Dunn index for 2 clusters is:1.539877239540446
+The Dunn index for 3 clusters is:2.7005129959828236
+The Dunn index for 4 clusters is:1.2961881828779294
+Based on these indices, we recommend the number of clusters to be :3. See if you agree.
+Clusters
+3
