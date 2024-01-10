@@ -20,6 +20,8 @@ REF="${WD}/ref"
 BAM="${WD}/bam"
 block_size=10000
 
+#move your reference file to "ref"
+
 # Only BAM files are needed, do not put bai files together
 SOMIES="${RUND}/somies"
 ALLELE="${RUND}/alleles"
